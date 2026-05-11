@@ -6,7 +6,6 @@
     <value>ДЗ доработка</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.КонтактныеЛица</content>
   <content>Catalog.Должности</content>
 </mdclass:Subsystem>
